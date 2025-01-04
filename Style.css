@@ -1,0 +1,31 @@
+.spad {
+        padding: 20px;
+}
+.Bpad {
+    padding: 40px;
+}
+.smar {
+    margin: 10px;
+}
+.Bmar {
+    margin: 30px;
+}
+.pB {
+    font-size: large;
+    color: green;
+}
+.pB2 {
+    font-size: larger;
+    background-color: red;
+    text-decoration: underline;
+}
+.center{
+    text-align: center;
+}
+
+img:hover{
+    cursor: grab;
+}
+img:active{
+    cursor: grabbing;
+}
